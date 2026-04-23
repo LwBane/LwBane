@@ -12,7 +12,7 @@ Em constante desenvolvimento 🚀
 
 
 <h3 align="left">Stacks ~</h3>
-<div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
